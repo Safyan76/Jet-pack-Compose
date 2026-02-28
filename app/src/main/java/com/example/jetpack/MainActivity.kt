@@ -55,9 +55,9 @@ class MainActivity : ComponentActivity() {
 
 }
 @Composable
-/*fun composeimage(){
+fun composeimage(){
     Image(painter = painterResource(id = R.drawable.logo), contentDescription = "Borcelle Logo")
-}*/
+}
 
 @Composable
 private fun RoundedButton() {
